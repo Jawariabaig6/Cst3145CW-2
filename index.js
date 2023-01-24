@@ -11,7 +11,7 @@ let classes = [{
     {
         topic: "Math",
         location: "Dubai",
-        price: 80,
+        price: 90,
     },
     {
         topic: "Math",
