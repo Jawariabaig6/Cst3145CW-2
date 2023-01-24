@@ -10,12 +10,12 @@ let classes = [{
     },
     {
         topic: "Math",
-        location: "Colindale",
+        location: "Dubai",
         price: 80,
     },
     {
         topic: "Math",
-        location: "Brent Cross",
+        location: "Newzeland",
         price: 90,
     },
     {
